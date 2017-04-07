@@ -1,0 +1,14 @@
+C:\job\projects\RxEx\Rx.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\job\projects\RxEx\Rx.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\job\projects\RxEx\Rx.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\job\projects\RxEx\Rx.Tests\bin\Debug\netcoreapp1.1\Rx.Tests.dll
+C:\job\projects\RxEx\Rx.Tests\bin\Debug\netcoreapp1.1\Rx.Services.dll
+C:\job\projects\RxEx\Rx.Tests\bin\Debug\netcoreapp1.1\Rx.Tests.deps.json
+C:\job\projects\RxEx\Rx.Tests\bin\Debug\netcoreapp1.1\Rx.Tests.runtimeconfig.json
+C:\job\projects\RxEx\Rx.Tests\bin\Debug\netcoreapp1.1\Rx.Tests.runtimeconfig.dev.json
+C:\job\projects\RxEx\Rx.Tests\bin\Debug\netcoreapp1.1\Rx.Services.pdb
+C:\job\projects\RxEx\Rx.Tests\obj\Debug\netcoreapp1.1\Rx.Tests.csprojResolveAssemblyReference.cache
+C:\job\projects\RxEx\Rx.Tests\obj\Debug\netcoreapp1.1\Rx.Tests.AssemblyInfo.cs
+C:\job\projects\RxEx\Rx.Tests\obj\Debug\netcoreapp1.1\Rx.Tests.dll
+C:\job\projects\RxEx\Rx.Tests\obj\Debug\netcoreapp1.1\Rx.Tests.pdb
+C:\job\projects\RxEx\Rx.Tests\bin\Debug\netcoreapp1.1\Rx.Tests.pdb

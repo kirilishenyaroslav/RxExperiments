@@ -1,0 +1,11 @@
+C:\job\projects\RxEx\Rx.ConsoleApp\bin\Debug\netcoreapp1.1\Rx.ConsoleApp.deps.json
+C:\job\projects\RxEx\Rx.ConsoleApp\bin\Debug\netcoreapp1.1\Rx.ConsoleApp.runtimeconfig.json
+C:\job\projects\RxEx\Rx.ConsoleApp\bin\Debug\netcoreapp1.1\Rx.ConsoleApp.runtimeconfig.dev.json
+C:\job\projects\RxEx\Rx.ConsoleApp\bin\Debug\netcoreapp1.1\Rx.ConsoleApp.dll
+C:\job\projects\RxEx\Rx.ConsoleApp\bin\Debug\netcoreapp1.1\Rx.ConsoleApp.pdb
+C:\job\projects\RxEx\Rx.ConsoleApp\bin\Debug\netcoreapp1.1\Rx.Services.dll
+C:\job\projects\RxEx\Rx.ConsoleApp\bin\Debug\netcoreapp1.1\Rx.Services.pdb
+C:\job\projects\RxEx\Rx.ConsoleApp\obj\Debug\netcoreapp1.1\Rx.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\job\projects\RxEx\Rx.ConsoleApp\obj\Debug\netcoreapp1.1\Rx.ConsoleApp.AssemblyInfo.cs
+C:\job\projects\RxEx\Rx.ConsoleApp\obj\Debug\netcoreapp1.1\Rx.ConsoleApp.dll
+C:\job\projects\RxEx\Rx.ConsoleApp\obj\Debug\netcoreapp1.1\Rx.ConsoleApp.pdb

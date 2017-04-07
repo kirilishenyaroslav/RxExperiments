@@ -1,0 +1,7 @@
+C:\job\projects\RxEx\Rx.Services\bin\Debug\netcoreapp1.1\Rx.Services.deps.json
+C:\job\projects\RxEx\Rx.Services\bin\Debug\netcoreapp1.1\Rx.Services.dll
+C:\job\projects\RxEx\Rx.Services\bin\Debug\netcoreapp1.1\Rx.Services.pdb
+C:\job\projects\RxEx\Rx.Services\obj\Debug\netcoreapp1.1\Rx.Services.csprojResolveAssemblyReference.cache
+C:\job\projects\RxEx\Rx.Services\obj\Debug\netcoreapp1.1\Rx.Services.AssemblyInfo.cs
+C:\job\projects\RxEx\Rx.Services\obj\Debug\netcoreapp1.1\Rx.Services.dll
+C:\job\projects\RxEx\Rx.Services\obj\Debug\netcoreapp1.1\Rx.Services.pdb
